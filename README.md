@@ -4,9 +4,10 @@ Third Project for my Data Analysis Nanodegree, Udacity<br/>
 <img src="images/rupixen-com-Q59HmzK38eQ-unsplash.jpeg" width="800" >
 Photo by <a href="https://unsplash.com/@rupixen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">rupixen.com</a> on <a href="https://unsplash.com/s/photos/e-commerce?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
+<br/><br/>
 
-
-Interpretation of the results of an A/B test run by an e-commerce website. My goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.<br/>
+**Interpretation of the results of an A/B test run by an e-commerce website. My goal is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.**<br/>
+<br/>
 
 ### Table of Contents
 - Part I - Probability
