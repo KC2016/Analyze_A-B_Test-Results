@@ -1,7 +1,7 @@
 # Analyze A/B Test Results
 Third Project for my Data Analysis Nanodegree, Udacity<br/>
 
-![e-commerce](images/rupixen-com-Q59HmzK38eQ-unsplash.jpeg)
+<img src="images/rupixen-com-Q59HmzK38eQ-unsplash.jpeg" width="650">
 Photo by <a href="https://unsplash.com/@rupixen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">rupixen.com</a> on <a href="https://unsplash.com/s/photos/e-commerce?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 
