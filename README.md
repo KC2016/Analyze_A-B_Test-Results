@@ -29,7 +29,7 @@ Jupyter Notebook
 - A deep analysis is recommended to support wiser decision-making.
 
 ### Part II - A/B Test
-![hist](images/hist.png)
+![hist](images/hist.png)<!-- .element height="50%" width="50%" -->
 
 **k. What you just computed in part j. What is this value called in scientific studies? What does this value mean in terms of whether or not there is a difference between the new and old pages?**
 - This is the p-value.
